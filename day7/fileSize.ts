@@ -15,7 +15,7 @@ type Directory = {
 };
 
 let root: Directory = {
-  name: "~",
+  name: "root",
   files: [],
   subdirectories: [],
   parent: null,
